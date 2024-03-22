@@ -1,0 +1,42 @@
+#Red-Box{
+    width:390px;
+    height :260px;
+    background-color: rgb(189, 7, 7);
+    margin: auto;
+}
+
+#Blue-Box{
+    width :390px;
+    height : 145px;
+    position :absolute;
+    top :11%;
+    background-color: rgb(3, 3, 116);
+    margin: auto;
+}
+
+#White-Circle{
+    border-radius: 50%;
+    background-color: white;
+    position :absolute;
+    width :115px;
+    height : 115px;
+    top :11%;
+    left : 35%;
+    margin: auto;
+}
+
+p{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:25px;
+    color: white;
+    bottom: 70px;
+    position: relative;
+}
+
+h1{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color :black;
+}
